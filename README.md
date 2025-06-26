@@ -1,6 +1,9 @@
-# Deep Reinforcement Learning - Educational Notebooks
+# Deep Reinforcement Learning - Google Colab Notebooks
 
 This repository provides a collection of **Deep Reinforcement Learning (DRL)** Jupyter notebooks designed for educational use. These materials are ideal for **undergraduate and graduate-level reinforcement learning courses**, workshops, or self-study.
+
+![Header Image](01_gym_intro/Head.JPG)
+
 
 All notebooks are:
 - ✅ Fully tested
@@ -67,6 +70,21 @@ You can run all notebooks directly in Google Colab—no setup required.
 
 ---
 
+
+
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute for educational and research purposes.
+
+---
+
+
+## Credits
+
+This notebook collection was created as part of an educational initiative on Deep Reinforcement Learning.
+
+- **Course Provider**: [Armin Attarzadeh](https://www.linkedin.com/in/armin-att)  
+- **Instructor**: Dr. Amirfarhad Farhadi
+- **Affiliation**: Iran University of Science and Technology
+
+We acknowledge the contributions of the open-source community and academic resources that supported the development of these materials.
